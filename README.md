@@ -5,17 +5,18 @@ I'm a student at Akdeniz University, passionate about software development and b
 ## About Me
 - Studying computer engineering at Akdeniz University.
 - Passionate about software development and backend systems.
-- Currently, I am improving my skills by building backend systems in Java.
+- Currently, I am developing backend solutions in Java and actively exploring Python for client-side applications.
 - How to reach me: ibiss.suleymann@gmail.com
 
 ##  Technologies
-- **Languages:** Java
+- **Languages:** Java and Python
 - **Frameworks:** Spring Boot and Hibernate
 - **Databases:** PostgreSQL
 - **Tools & Hosting:** Render and Vercel
 
 ##  Featured Projects
 - **[commerce-cart-api-java](https://github.com/suleymanibis/commerce-cart-api-java):** A backend project that simulates the backend of e-commerce websites.
+- **[commerce-cart-api-client-python](https://github.com/suleymanibis/commerce-cart-api-client-python):** A client project that interfaces with the e-commerce API I built, developed with Python.
 - **[mastermind-game-java](https://github.com/suleymanibis/mastermind-game-java):** A classic Mastermind game developed with Java.
 - **[credit-card-validator-java](https://github.com/suleymanibis/credit-card-validator-java):** A simple credit card number validator.
 
